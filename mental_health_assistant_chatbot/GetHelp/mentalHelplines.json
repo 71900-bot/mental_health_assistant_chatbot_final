@@ -1,0 +1,613 @@
+{
+  "helplines": [
+    {
+      "name": "Befrienders Kuala Lumpur",
+      "phone": "+603-7956 8145",
+	  "website": "https://www.befrienders.org.my/",
+	  "latitude": 3.09544,
+	  "longitude": 101.64358
+    },
+    {
+      "name": "Lifeline Association of Malaysia",
+      "phone": "+603-4265 7995",
+	  "website": "http://lifeline.org.my/cn/",
+	  "latitude": 3.17733,
+	  "longitude": 101.73682
+    },
+	{
+	 "name": "Malaysian Mental Health Association (MMHA)",
+     "phone": "+603-2780 6803",
+	 "website": "https://mmha.org.my/",
+	 "latitude": 3.09054,
+	 "longitude": 101.64121
+	},
+	{
+     "name": "National Population and Family Development Board (LPPKN)",
+     "phone": "+603-2698 8177",
+	 "website": "http://www.lppkn.gov.my/lppkngateway/frontend/web/",
+	 "latitude": 5.95160,
+	 "longitude": 116.05300
+	},
+	{
+      "name": "Thrive Well",
+      "phone": "+6018-900 7247",
+	  "website": "https://www.thethrive.center/",
+	  "latitude": 3.13675,
+	  "longitude": 101.60873
+    },
+    {
+      "name": "Mental Illness Awareness & Support Association (MIASA)",
+      "phone": "+603-7732 2414",
+	  "website": "http://miasa.org.my/",
+	  "latitude": 3.09946,
+	  "longitude": 101.64856
+    },
+    {
+      "name": "Mintygreen Psychological & Counselling Services",
+      "phone": "+603–8408 1978",
+	  "website": "https://www.mgpsychology.com.my/",
+	  "latitude": 3.05793,
+	  "longitude": 101.46076
+    },
+    {
+      "name": "Enrich Counselling & Therapy Centre (ECTC)",
+      "phone": "+603-8061 8061",
+	  "website": "http://www.jm-enrich.my/",
+	  "latitude": 3.02628,
+	  "longitude": 101.61720
+    },	
+    {
+      "name": "InPsych Psychological and Counselling Services",
+      "phone": "+6017-331 1216",
+	  "website": "http://www.inpsych.com.my/",
+	  "latitude": 3.08338,
+	  "longitude": 101.66951
+    },	
+    {
+      "name": "Serene Psychological Services",
+      "phone": "+6018-777 2242",
+	  "website": "https://serene.com.my/",
+	  "latitude": 3.17071,
+	  "longitude": 101.66589
+    },	
+    {
+      "name": "MY Psychology",
+      "phone": "+6011-3344 5270",
+	  "website": "https://www.mypsychology.my/",
+	  "latitude": 3.21280,
+	  "longitude": 101.64300
+    },	
+    {
+      "name": "Growing Space Psychology Center",
+      "phone": "+6019-433 0921",
+	  "website": "https://growingspace.org/",
+	  "latitude": 3.05248,
+	  "longitude": 101.67195
+    },
+    {
+      "name": "MPS Psychological Services",
+      "phone": "+6011-3676 2478",
+	  "website": "http://www.mpspsy.com.my/",
+	  "latitude": 3.07029,
+	  "longitude": 101.69438
+    },	
+    {
+      "name": "People Psychological Solutions",
+      "phone": "+6017-899 2207",
+	  "website": "https://people.my/",
+	  "latitude": 3.16581,
+	  "longitude": 101.65272
+    },	
+    {
+      "name": "Psycle Psychological Services",
+      "phone": "+6018–779 8677",
+	  "website": "https://www.psycle.com.my/",
+	  "latitude": 3.06928,
+	  "longitude": 101.69070
+    },		
+    {
+      "name": "Ding Psychology Centre",
+      "phone": "+603-7727 6628",
+	  "website": "http://www.dingpsychology.com/",
+	  "latitude": 3.13802,
+	  "longitude": 101.62237
+    },		
+    {
+      "name": "The Federation of Sarawak Life Care Society",
+      "phone": "+6082-234 680",
+	  "website": "http://lifecaresociety.net/",
+	  "latitude": 1.53422,
+	  "longitude": 110.33830
+    },
+    {
+      "name": "Mental Health Association of Sarawak",
+      "phone": "+6082-231 459",
+	  "website": "https://mhasarawak.com/",
+	  "latitude": 1.53350,
+	  "longitude": 110.33748
+    },
+	{
+      "name": "Sabah AIDS Awareness Group Assoc.(SAGA)",
+      "phone": "+6089-214 889",
+	  "website": "https://www.hati.my/sabah-aids-awareness-group-association/",
+	  "latitude": 5.95528,
+	  "longitude": 118.04296
+    },
+	{
+      "name": "Bukit Padang Psychiatric Hospital",
+      "phone": "+6088-240 984",
+	  "website": "http://jknsabah.moh.gov.my/hmbp/",
+	  "latitude": 5.95046,
+	  "longitude": 116.10520
+    },
+	{
+      "name": "Mental Health and Psychology Clinic Kota Kinabalu",
+      "phone": "+6011-3604 4552",
+	  "website": "https://www.therapyroute.com/therapist/my-psychology-kk-kota-kinabalu-malaysia",
+	  "latitude": 6.03131,
+	  "longitude": 116.13187
+    },
+	{
+      "name": "Befrienders Penang",
+      "phone": "+604-281 5161 / +604-281 1108",
+	  "website": "https://www.befrienders.org.my/centers/penang",
+	  "latitude": 5.41528,
+	  "longitude": 100.33224
+    },
+	{
+	"name": "Befrienders Ipoh",
+	"phone": "+605-547 7933 / +605-547 7955",
+	"website": "https://www.befrienders.org.my/centers/ipoh",
+	"latitude": 4.59424,
+	"longitude": 101.08398
+	},
+	{
+	"name": "Befrienders Malacca",
+	"phone": "+606-284 2500",
+	"website": "https://www.befrienders.org.my/centers/melaka",
+	"latitude": 2.20665,
+	"longitude": 102.24640
+	},
+	{
+	"name": "Befrienders Johor Bahru",
+	"phone": "+607-331 2300",
+	"website": "https://www.befrienders.org.my/centers/johor-bahru",
+	"latitude": 1.47973,
+	"longitude": 103.76118
+	},
+	{
+	"name": "Befrienders Kota Kinabalu (Sabah)",
+	"phone": "+6088-255 788",
+	"website": "https://www.befrienders.org.my/centers/kota-kinabalu",
+	"latitude": 5.96555,
+	"longitude": 116.09272
+	},
+	{
+	"name": "Befrienders Kuching (Sarawak)",
+	"phone": "+6082-242 800",
+	"website": "https://www.befrienders.org.my/centers/kuching",
+	"latitude": 1.54441,
+	"longitude": 110.35533
+	},
+	{
+	"name": "Lifeline Care Association",
+	"phone": "+6012-219 1221",
+	"website": "https://lifelinecare.org.my/",
+	"latitude": 3.07055,
+	"longitude": 101.52177
+	},
+	{
+	"name": "Mental Health Association of Selangor and Federal Territory (MHAS)",
+	"phone": "+603-7782 5499 / +603-7784 5399",
+	"website": "https://mhas.org.my/",
+	"latitude": 3.14666,
+	"longitude": 101.69758
+	},
+	{
+	"name": "Malaysian Psychiatric Association (MPA)",
+	"phone": "+603-7932 1001",
+	"website": "https://www.psychiatry-malaysia.org/",
+	"latitude": 3.14787,
+	"longitude": 101.70663
+	},
+	{
+	"name": "Psychiatric & Mental Health Nurses Association Malaysia (PMHNAM)",
+	"phone": "+603-2698 4470",
+	"website": "https://pmhnam.org.my/",
+	"latitude": 3.16434,
+	"longitude": 101.69344
+	},
+	{
+	"name": "Malaysian Mental Health Council (MMHC)",
+	"phone": "+603-4050 2700",
+	"website": "http://mmhc.org.my/",
+	"latitude": 3.07140,
+	"longitude": 101.63143
+	},
+	{
+	"name": "Mindakami - Mental Health Support Group",
+	"phone": "+6016-218 6750",
+	"website": "https://www.mindakami.org/",
+	"latitude": 3.13909,
+	"longitude": 101.68627
+	},
+	{
+	"name": "Suara Rakyat Malaysia (SUARAM)",
+	"phone": "+603-7784 3525",
+	"website": "https://www.suaram.net/",
+	"latitude": 3.15780,
+	"longitude": 101.69942
+	},
+	{
+	"name": "Malaysian AIDS Council",
+	"phone": "+603-4047 7000",
+	"website": "https://www.mac.org.my/",
+	"latitude": 3.15690,
+	"longitude": 101.70970
+	},
+	{
+	"name": "Malaysian Society for Quality in Health (MSQH)",
+	"phone": "+603-7805 3496",
+	"website": "https://www.msqh.com.my/",
+	"latitude": 3.13757,
+	"longitude": 101.71379
+	},
+	{
+	"name": "Malaysian AIDS Foundation",
+	"phone": "+603-4047 7500",
+	"website": "https://www.maf.org.my/",
+	"latitude": 3.15942,
+	"longitude": 101.71155
+	},
+	{
+	"name": "Crisis Call Centre Malaysia",
+	"phone": "+603-7956 8144",
+	"website": "https://www.befrienders.org.my/",
+	"latitude": 3.15942,
+	"longitude": 101.71155
+	},
+	{
+	"name": "National Stroke Association of Malaysia (NASAM)",
+	"phone": "+603-7956 4840",
+	"website": "https://www.nasam.org/",
+	"latitude": 3.15748,
+	"longitude": 101.70313
+	},
+	{
+	"name": "Tung Shin Hospital (Kuala Lumpur)",
+	"phone": "+603-2037 2288",
+	"website": "http://www.tungshinhospital.com.my/",
+	"latitude": 3.13843,
+	"longitude": 101.69915
+	},
+	{
+	"name": "Hospital Pantai Bangsar",
+	"phone": "+603-2296 0888",
+	"website": "https://www.pantai.com.my/bangsar",
+	"latitude": 3.12990,
+	"longitude": 101.67374
+	},
+	{
+	"name": "Assunta Hospital",
+	"phone": "+603-7872 3000",
+	"website": "https://www.assunta.com.my/",
+	"latitude": 3.11518,
+	"longitude": 101.65341
+	},
+	{
+	"name": "KPJ Damansara Specialist Hospital",
+	"phone": "+603-7718 1000",
+	"website": "https://www.kpjdamansara.com/",
+	"latitude": 3.13832,
+	"longitude": 101.61160
+	},
+	{
+	"name": "National Heart Institute (IJN)",
+	"phone": "+603-2617 8200",
+	"website": "https://www.ijn.com.my/",
+	"latitude": 3.13949,
+	"longitude": 101.68535
+	},
+	{
+	"name": "Hospital Kuala Lumpur Poison Control Center",
+	"phone": "+603-2698 5400",
+	"website": "https://www.hkl.gov.my/",
+	"latitude": 3.16661,
+	"longitude": 101.69557
+	},
+	{
+	"name": "University Malaya Medical Centre (UMMC)",
+	"phone": "+603-7949 4422",
+	"website": "https://www.ummc.edu.my/",
+	"latitude": 3.12331,
+	"longitude": 101.65236
+	},
+	{
+	"name": "KPJ Ampang Puteri Specialist Hospital",
+	"phone": "+603-4270 2500",
+	"website": "https://www.kpjamc.com/",
+	"latitude": 3.15214,
+	"longitude": 101.76561
+	},
+	{
+	"name": "Pantai Hospital Ampang",
+	"phone": "+603-4289 2828",
+	"website": "https://www.pantai.com.my/ampang",
+	"latitude": 3.14717,
+	"longitude": 101.76050
+	},
+	{
+	"name": "Sime Darby Medical Centre Ara Damansara",
+	"phone": "+603-6287 1111",
+	"website": "https://www.simedarbymedical.com/ara-damansara/",
+	"latitude": 3.11363,
+	"longitude": 101.57907
+	},
+	{
+	"name": "Loh Guan Lye Specialists Centre",
+	"phone": "+604-238 8888",
+	"website": "https://www.lohguanlye.com/",
+	"latitude": 5.42103,
+	"longitude": 100.32893
+	},
+	{
+	"name": "Timberland Medical Centre - Psychiatry Department",
+	"phone": "+6088-421 333",
+	"website": "https://www.timberlandmedical.com/",
+	"latitude": 5.93745,
+	"longitude": 116.11677
+	},
+	{
+	"name": "KPJ Sabah Specialist Hospital - Psychiatry Department",
+	"phone": "+6088-322 888",
+	"website": "https://kpjsabah.com/",
+	"latitude": 5.97248,
+	"longitude": 116.06043
+	},
+	{
+	"name": "Sabah Mental Health Association",
+	"phone": "+6088-242 237",
+	"website": "https://www.sabahmentalhealth.org.my/",
+	"latitude": 5.97303,
+	"longitude": 116.07135
+	},
+	{
+	"name": "Sarawak Mental Health Association",
+	"phone": "+6082-242 250",
+	"website": "https://sarawakmentalhealth.org.my/",
+	"latitude": 1.55379,
+	"longitude": 110.35994
+	},
+	{
+	"name": "Mental Health Association of Miri",
+	"phone": "+6085-435 814",
+	"website": "http://mhamiri.org.my/",
+	"latitude": 4.40385,
+	"longitude": 113.99103
+	},
+	{
+	"name": "Mental Health Association of Sibu",
+	"phone": "+6084-320 070",
+	"website": "https://www.facebook.com/mentalhealthassociationsibu/",
+	"latitude": 2.30433,
+	"longitude": 111.84394
+	},
+	{
+	"name": "Mental Health Association of Bintulu",
+	"phone": "+6086-331 781",
+	"website": "https://www.facebook.com/MentalHealthAssociationOfBintulu/",
+	"latitude": 3.18746,
+	"longitude": 113.03951
+	},
+	{
+	"name": "Mental Health Association of Labuan",
+	"phone": "+6087-417 217",
+	"website": "https://www.facebook.com/mentalhealthassociationlabuan/",
+	"latitude": 5.28319,
+	"longitude": 115.23832
+	},
+	{
+	"name": "Mental Health Association of Sandakan",
+	"phone": "+6089-221 122",
+	"website": "https://www.facebook.com/mhasandakan/",
+	"latitude": 5.84484,
+	"longitude": 118.12141
+	},
+	{
+	"name": "Mental Health Association of Tawau",
+	"phone": "+6089-774 275",
+	"website": "https://www.facebook.com/mentalhealthassociationtawau/",
+	"latitude": 4.25703,
+	"longitude": 117.89209
+	},
+	{
+	"name": "Mental Health Association of Lahad Datu",
+	"phone": "+6089-882 051",
+	"website": "https://www.facebook.com/mhalahaddatu/",
+	"latitude": 5.02740,
+	"longitude": 118.31861
+	},
+	{
+	"name": "Mental Health Association of Tuaran",
+	"phone": "+6088-791 656",
+	"website": "https://www.facebook.com/mentalhealthassociationtuaran/",
+	"latitude": 6.19669,
+	"longitude": 116.20168
+	},
+	{
+	"name": "Mental Health Association of Kapit",
+	"phone": "+6084-796 260",
+	"website": "https://www.facebook.com/Mental-Health-Association-of-Kapit-303487313546071/",
+	"latitude": 2.01518,
+	"longitude": 112.93554
+	},
+	{
+	"name": "Malaysian Mental Health Coalition (MMHC)",
+	"phone": "+6017-228 9399",
+	"website": "https://malaysianmentalhealth.org/",
+	"latitude": 3.1390,
+	"longitude": 101.6869
+	},
+	{
+	"name": "SOLS Health",
+	"phone": "+603-9054 5500",
+	"website": "https://www.solshealth.org/",
+	"latitude": 3.0789,
+	"longitude": 101.6806
+	},
+	{
+	"name": "IMU Healthcare",
+	"phone": "+603-2731 7663",
+	"website": "https://www.imuhealthcare.com/",
+	"latitude": 3.1653,
+	"longitude": 101.6525
+	},
+	{
+	"name": "The Mind Faculty",
+	"phone": "+603-6203 0359",
+	"website": "https://themindfaculty.com/",
+	"latitude": 3.1304,
+	"longitude": 101.6712
+	},
+	{
+	"name": "Naluri",
+	"phone": "+603-8408 1701",
+	"website": "https://www.naluri.life/",
+	"latitude": 3.1679,
+	"longitude": 101.6925
+	},
+	{
+	"name": "Pusat Aduan Sosial dan Kaunseling (PASAK)",
+	"phone": "+603-6185 5225",
+	"website": "http://www.pasak.org.my/",
+	"latitude": 3.0486,
+	"longitude": 101.5966
+	},
+	{
+	"name": "GROW Counseling Services",
+	"phone": "+603-2287 1945",
+	"website": "http://www.grow.org.my/",
+	"latitude": 3.139,
+	"longitude": 101.6869
+	},
+	{
+	"name": "PsychCare",
+	"phone": "+603-6242 4900",
+	"website": "https://www.psychcare.my/",
+	"latitude": 3.1485,
+	"longitude": 101.6965
+	},
+	{
+	"name": "Nur Salam Welfare Association",
+	"phone": "+603-6189 4276",
+	"website": "https://www.nursalam.org.my/",
+	"latitude": 3.1523,
+	"longitude": 101.7398
+	},
+	{
+	"name": "Pertubuhan Pusat Kebajikan Destiny",
+	"phone": "+603-9223 2866",
+	"website": "https://www.destiny.org.my/",
+	"latitude": 3.1291,
+	"longitude": 101.7334
+	},
+	{
+	"name": "HopeLine",
+	"phone": "+6012-548 9090",
+	"website": "https://www.hopeline.com.my/",
+	"latitude": 3.1275,
+	"longitude": 101.6779
+	},
+	{
+	"name": "PSYUM",
+	"phone": "+6012-548 9090",
+	"website": "https://www.psyum.org.my/",
+	"latitude": 3.1561,
+	"longitude": 101.7118
+	},
+	{
+	"name": "Community Health and Development Association (COHDA)",
+	"phone": "+603-6186 6305",
+	"website": "http://cohda.org.my/",
+	"latitude": 3.1329,
+	"longitude": 101.6836
+	},
+	{
+	"name": "Institute for Medical Research (IMR)",
+	"phone": "+603-3362 1800",
+	"website": "https://www.imr.gov.my/",
+	"latitude": 3.1236,
+	"longitude": 101.6771
+	},
+	{
+	"name": "UM Specialist Centre (UMSC) - Psychiatry Department",
+	"phone": "+603-7841 4040",
+	"website": "https://www.umsc.my/",
+	"latitude": 3.1143,
+	"longitude": 101.6541
+	},
+	{
+	"name": "Psychological Counselling Service, Universiti Putra Malaysia",
+	"phone": "+603-8946 7079",
+	"website": "http://pkukmweb.ukm.my/",
+	"latitude": 2.9929,
+	"longitude": 101.7803
+	},
+	{
+	"name": "Psychological and Counselling Services (PCS), University of Malaya",
+	"phone": "+603-7967 7481",
+	"website": "https://www.um.edu.my/centre/pcs",
+	"latitude": 3.1155,
+	"longitude": 101.6547
+	},
+	{
+	"name": "Psychological Services Centre, HELP University",
+	"phone": "+603-2711 7811",
+	"website": "https://psychology.help.edu.my/psychological-services-centre/",
+	"latitude": 3.1153,
+	"longitude": 101.6377
+	},
+	{
+	"name": "Mindful Psychological & Wellness Clinic",
+	"phone": "+603-2856 7887",
+	"website": "https://www.mindful-psych.com/",
+	"latitude": 3.1265,
+	"longitude": 101.6204
+	},
+	{
+	"name": "Psychology Matters Asia",
+	"phone": "+6018-273 7537",
+	"website": "https://psychologymatters.asia/",
+	"latitude": 3.1354,
+	"longitude": 101.6291
+	},
+	{
+	"name": "Mindfulness Malaysia",
+	"phone": "+6012-923 1919",
+	"website": "https://www.mindfulnessmalaysia.com/",
+	"latitude": 3.0926,
+	"longitude": 101.6564
+	},
+	{
+	"name": "MindAsia Psychological Services",
+	"phone": "+603-2303 9696",
+	"website": "https://mindasia.com.my/",
+	"latitude": 3.0755,
+	"longitude": 101.5903
+	},
+	{
+	"name": "The Mind Faculty",
+	"phone": "+603-6203 0359",
+	"website": "https://themindfaculty.com/",
+	"latitude": 3.1592,
+	"longitude": 101.7113
+	},
+	{
+	"name": "Cognitive Behavioral Therapy Centre",
+	"phone": "+6016-977 7115",
+	"website": "https://www.cognitivebehavioral.com.my/",
+	"latitude": 3.0622,
+	"longitude": 101.5885
+	}
+  ]
+}
